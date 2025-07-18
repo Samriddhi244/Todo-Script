@@ -109,10 +109,6 @@ The application includes robust error handling for:
 - Python 3.x
 - No external dependencies (uses only built-in modules)
 
-## Sample Tasks File
-
-A sample tasks file (`sample_tasks.txt`) is included to demonstrate the file format. You can use this as a template or for testing purposes.
-
 ## Tips for Best Use
 
 1. **Keep task descriptions clear and specific**
